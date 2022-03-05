@@ -1,0 +1,6 @@
+elif a==d:
+  pro1 = int(input("The first number = "))
+  pro2 = int(input("The second number = "))
+  pro3 = pro1*pro2
+  print("The product is {} ".format(pro3))
+  print("Have a nice day :)")
