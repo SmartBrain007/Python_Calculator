@@ -1,0 +1,7 @@
+welcome()
+options()
+b = 1 or "Addition"
+c = 2 or "Subtraction"
+d = 3 or "Multiplication"
+e = 4 or "Division"
+a = input("What do you want to solve today = ")
