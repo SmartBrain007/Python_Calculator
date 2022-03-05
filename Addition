@@ -1,0 +1,6 @@
+if a == b:
+  sum1 = int(input("The first number = "))
+  sum2 = int(input("The second number = "))
+  sum3 = sum1 + sum2
+  print("The sum is {}".format(sum3))
+  print("Have a nice day :)")
