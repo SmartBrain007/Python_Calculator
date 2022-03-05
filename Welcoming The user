@@ -1,0 +1,7 @@
+#Python Calculator
+# Starting 
+def welcome():
+    #This is for welcome the user
+    print("Welcome to The Python calculator")
+    print("The calculator that is developed in Python 3.8")
+    return
