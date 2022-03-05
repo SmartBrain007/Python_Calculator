@@ -1,0 +1,6 @@
+elif a == c:
+  dif1 = int(input("The first number = "))
+  dif2 = int(input("The second number = "))
+  dif3 = dif1 - dif2
+  print("The difference is {}".format(dif3))
+  print("Have a nice day :)")
