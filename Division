@@ -1,0 +1,7 @@
+else:
+  div1 = int(input("The first number = "))
+  div2 = int(input("The second number = "))
+  div3 = div1 // div2
+  print("The divided answer is {}".format(div3))
+  print("Have a nice day :)")
+  
